@@ -193,12 +193,20 @@
       "logoURI": "/images/coins/BCH-icon.png"
     },
     {
-      "name": "Litecoin Token",
-      "symbol": "LTC",
-      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "name": "fCAT Token",
+      "symbol": "fCAT",
+      "address": "0x2A94918e7c8eAa27e9a2e0e818dFC24b18e56858",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/LTC-icon.png"
+      "logoURI": "/images/coins/FCAT.png"
+    },
+    {
+      "name": "CAT Token",
+      "symbol": "CAT",
+      "address": "0x647921E5B014b0c3831Ff10944E77039606bb8A4",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/CAT.png"
     },
     {
       "name": "Cardano Token",
